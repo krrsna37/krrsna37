@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @krrsna37 from kalimpong.
-- 👀 I’m interested in blockchain and electrical engineering is my hobby.
-- 🌱 I’m currently learning blockchain developer,smart contacts etc
-- 💞️ I’m looking to collaborate on blockchain projects, daaps, ethereum nodes, smart contacts, solana 
+- 👋 Hi, I’m @krishna Mangrati
+- 👀 I’m interested in blockchain 
+-    Electrical engineering is my hobby.
+- 🌱 I’m currently learning blockchain developent,smart contacts etc
+- 💞️ I’m looking to collaborate on building blockchain projects, daaps, ethereum, smart contacts, solana 
 - 📫 How to reach me At krrsna37@gmail.com
 
 
